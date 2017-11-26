@@ -1,6 +1,6 @@
 # Sistema de sorteio
 
-Ao baixar o códido desse rodar os seguintes comandos  
+Baixe o Yii framework 1.1 e adicione na mesma pasta onde irá baixar o projeto. 
 
 Rode o comando que irá criar o arquivo sqlite. Você deve estar dentro da pasta **protected** para rodar esse comando. Esse comando também vai criar alguns registros de exemplos. Para ter detalhes desses registros acesse os arquivos dentro de **protected/migrations**.   
 <code>
